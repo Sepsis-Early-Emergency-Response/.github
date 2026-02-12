@@ -72,7 +72,6 @@ SEER는 **qSOFA 기준**과 **시계열 바이탈 분석**을 결합하여 다�
 * **Language**: Java 21 (LTS)
 * **Framework**: Spring Boot (WebFlux/Reactive Stack 지원)
 * **Database**:
-    * **Redis**: 실시간 데이터 캐싱 및 고속 처리를 위한 Reactive Redis 사용
     * **JPA**: 안정적인 데이터 영속성 관리
 * **Build**: Gradle
 
